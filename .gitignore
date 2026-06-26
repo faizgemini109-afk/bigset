@@ -1,13 +1,10 @@
 .DS_Store
 node_modules/
 .npm-cache/
-.env
-.env.local
 Project_BigSet_brief.md
 
 # Editor / IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 
@@ -30,3 +27,7 @@ temp/
 
 # Internal docs
 BigSet Technical Specs & Goals.md
+config.bat
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
